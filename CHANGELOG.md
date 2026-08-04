@@ -12,6 +12,12 @@ For pre-1.5.0 history of individual crates, see git tags matching
 
 ## [Unreleased]
 
+## [1.21.8](https://github.com/docspec/docspec/compare/v1.21.7...v1.21.8) - 2026-08-04
+
+### Other
+
+- *(docx-reader)* split document parsing into text, props, and media modules
+
 ## [1.21.7](https://github.com/docspec/docspec/compare/v1.21.6...v1.21.7) - 2026-08-04
 
 ### Other
